@@ -2,5 +2,7 @@
 
 int main()
 {
+	int mm;
+	printf("hello");
 	return 0;
 }
